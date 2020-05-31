@@ -1,1 +1,2 @@
-# LICENSE.md
+# LICENSE
+## Apache 3.0
